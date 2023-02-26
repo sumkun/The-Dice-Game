@@ -1,0 +1,3 @@
+- This is a simple Dice Game.
+- Can be used to make quicker decisions between 2 people's argument (Just For Fun!)
+- Or Use it as a Toss 
